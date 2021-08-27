@@ -1,7 +1,10 @@
 [日本語](README_jp.md) 👈
-### Hi there 👋
+
+Hi, I'm a Flutter and Android developer.😇
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakatsuyuki&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=bakatsuyuki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=bakatsuyuki&theme=onedark)
 <!--
 **bakatsuyuki/bakatsuyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
