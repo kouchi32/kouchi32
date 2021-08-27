@@ -1,4 +1,4 @@
-[English](README_jp.md) 👈
+[English](README.md) 👈
 
 FlutterとAndroidのエンジニアです 😇
 
