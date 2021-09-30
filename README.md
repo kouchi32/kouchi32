@@ -1,10 +1,4 @@
-[日本語](README_jp.md) 👈
-
 Hi, I'm a Flutter and Android developer.😇
-
-- [WorkHistory](https://gist.github.com/bakatsuyuki/33a8d06edfc9a5dde1faca62af8eeca4)
-- [Skills](https://gist.github.com/bakatsuyuki/faa200465acb03b7549c7d1e27a0da01)
-- [Portfolio](https://gist.github.com/bakatsuyuki/bbdc7b6c37afa4e01d5149c4bdb9d387)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakatsuyuki&show_icons=true&theme=radical)
 
