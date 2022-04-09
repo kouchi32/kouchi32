@@ -1,4 +1,4 @@
-Hi, I'm a Flutter and Android developer.😇
+Hi, I'm a Flutter developer.😇
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakatsuyuki&show_icons=true&theme=radical)
 
