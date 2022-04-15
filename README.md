@@ -1,8 +1,8 @@
 Hi, I'm a Flutter developer.😇
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakatsuyuki&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouchi32&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bakatsuyuki&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=kouchi32&theme=onedark)
 <!--
 **bakatsuyuki/bakatsuyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
